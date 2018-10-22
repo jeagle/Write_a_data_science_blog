@@ -25,7 +25,7 @@ I also concluded that in order to get better results using the algorithms Linear
 
 ## Files
 
-The project contains a Jupyter notebook where all the technical sides of the project has been conducted, A blogpost on Medium: . The raw data: http://data.insideairbnb.com/united-states/ny/new-york-city/2018-10-03/data/listings.csv.gz and this readme file.
+The project contains a Jupyter notebook where all the technical sides of the project has been conducted, A blogpost on Medium: https://medium.com/@j.skiphamn/airbnb-on-manhattan-or-in-brooklyn-from-a-data-perspective-c95d1862f075 . The raw data: http://data.insideairbnb.com/united-states/ny/new-york-city/2018-10-03/data/listings.csv.gz and this readme file.
 
 ## How to interact with this project
 
